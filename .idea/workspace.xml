@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d5a8c6-cb77-4a6d-8d10-49c667b16b64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="242op8MRNAUesGm3DjAwgWZ48xs" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.ExplicitWaitPractice">
+    <configuration name="ExplicitWaitPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ExplicitWaitPractice" />
+      <module name="SeleniumReview2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorMessageVerification.errorMessageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ErrorMessageVerification" />
+      <option name="METHOD_NAME" value="errorMessageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitPractice.dynamicPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ExplicitWaitPractice" />
+      <option name="METHOD_NAME" value="dynamicPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitPractice.dynamicTitleVerificationUsingExplicitWait" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ExplicitWaitPractice" />
+      <option name="METHOD_NAME" value="dynamicTitleVerificationUsingExplicitWait" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordVerification.forgotPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ForgotPasswordVerification" />
+      <option name="METHOD_NAME" value="forgotPasswordTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExplicitWaitPractice" />
+        <item itemvalue="TestNG.ExplicitWaitPractice.dynamicPageTest" />
+        <item itemvalue="TestNG.ExplicitWaitPractice.dynamicTitleVerificationUsingExplicitWait" />
+        <item itemvalue="TestNG.ErrorMessageVerification.errorMessageTest" />
+        <item itemvalue="TestNG.ForgotPasswordVerification.forgotPasswordTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d5a8c6-cb77-4a6d-8d10-49c667b16b64" name="Default Changelist" comment="" />
+      <created>1642838223112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642838223112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="1224" height="612" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1643763823033">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="100" y="125" width="1224" height="612" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.825@0.23.1440.825" timestamp="1643763823033" />
+    <state x="100" y="125" width="1224" height="612" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.826@0.23.1440.826" timestamp="1643436551407" />
+    <state width="1372" height="501" key="GridCell.Tab.0.bottom" timestamp="1643768096617">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1372" height="501" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1643768096617" />
+    <state width="1372" height="499" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1643512605264" />
+    <state width="1372" height="501" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1643766481736" />
+    <state width="1372" height="332" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1643765915173" />
+    <state width="1372" height="489" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1643661132861" />
+    <state width="1372" height="196" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1643057637038" />
+    <state width="1372" height="430" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1643143419326" />
+    <state width="1372" height="166" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1643142372036" />
+    <state width="1372" height="166" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1643142399510" />
+    <state width="1372" height="501" key="GridCell.Tab.0.center" timestamp="1643768096615">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1372" height="501" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1643768096615" />
+    <state width="1372" height="499" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1643512605263" />
+    <state width="1372" height="501" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1643766481734" />
+    <state width="1372" height="332" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1643765915172" />
+    <state width="1372" height="489" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1643661132860" />
+    <state width="1372" height="196" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1643057637037" />
+    <state width="1372" height="430" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1643143419325" />
+    <state width="1372" height="166" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1643142372035" />
+    <state width="1372" height="166" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1643142399508" />
+    <state width="1372" height="501" key="GridCell.Tab.0.left" timestamp="1643768096614">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1372" height="501" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1643768096614" />
+    <state width="1372" height="499" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1643512605262" />
+    <state width="1372" height="501" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1643766481733" />
+    <state width="1372" height="332" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1643765915171" />
+    <state width="1372" height="489" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1643661132859" />
+    <state width="1372" height="196" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1643057637037" />
+    <state width="1372" height="430" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1643143419324" />
+    <state width="1372" height="166" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1643142372035" />
+    <state width="1372" height="166" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1643142399507" />
+    <state width="1372" height="501" key="GridCell.Tab.0.right" timestamp="1643768096616">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1372" height="501" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1643768096616" />
+    <state width="1372" height="499" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1643512605263" />
+    <state width="1372" height="501" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1643766481735" />
+    <state width="1372" height="332" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1643765915172" />
+    <state width="1372" height="489" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1643661132860" />
+    <state width="1372" height="196" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1643057637038" />
+    <state width="1372" height="430" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1643143419326" />
+    <state width="1372" height="166" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1643142372036" />
+    <state width="1372" height="166" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1643142399509" />
+    <state x="106" y="23" key="SettingsEditor" timestamp="1642838624422">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="106" y="23" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1642838624422" />
+    <state x="232" y="107" width="978" height="642" key="find.popup" timestamp="1643692880249">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="232" y="107" width="978" height="642" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1643692880249" />
+    <state x="232" y="107" width="978" height="644" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1642973337244" />
+    <state x="0" y="68" key="new project wizard" timestamp="1643781812726">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="0" y="68" key="new project wizard/0.23.1440.823@0.23.1440.823" timestamp="1643781812726" />
+    <state x="302" y="191" width="838" height="1032" key="run.anything.popup" timestamp="1642839417728">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="302" y="191" width="838" height="1032" key="run.anything.popup/0.23.1440.826@0.23.1440.826" timestamp="1642839417728" />
+  </component>
+</project>
